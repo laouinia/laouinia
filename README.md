@@ -1,36 +1,39 @@
-# *`Hi  LΛ in the Git`* 👋
+# Hi ! &nbsp; *`L.A`* &nbsp; in the Git &nbsp; ✨
 
-## 🔭 `About me`
+&nbsp;
 
-- 🔭 An `E.C.E` currently working on: `getting a full-time job`
+## 🔭 &nbsp; About me
 
----
+- 🔭 &nbsp; An &nbsp; *`E.C.E`* &nbsp; currently working on : getting a full-time job
 
-## 🤓 `Area of Interests`
+&nbsp;
 
-- 👯 *`Collaborate on`* : `AI | ML | DL | CV | Arch`
+## 🤓 &nbsp; Area of Interests
 
----
+- 👯   &nbsp; Collaborate on : `AI` | `ML` | `DL` | `CV` | `Arch`
 
-## 📚 `Education`
+&nbsp;
 
-- 🌱 `OpenCV` : `Computer Vision` : { In Progress }
+## 📚  &nbsp; Education
 
----
+- 🌱  &nbsp; `OpenCV` : Computer Vision : { In Progress }
 
-## 📚 `Skills`
+&nbsp;
 
+## 👨‍💻  &nbsp; `Skills`
+
+&nbsp;
 <!-- skills -->
-<img height="50" width="50" src="https://avatars.githubusercontent.com/u/4673648?s=200&v=4" /><img height="50" width="50" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
-<img height="50" width="50" src="https://avatars.githubusercontent.com/u/63681715?s=200&v=4" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/html/html.png" />
-<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/css/css.png" />
+<img height="50" width="50" src="https://avatars.githubusercontent.com/u/4673648?s=200&v=4" /> &nbsp; <img height="50" width="50" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" /> &nbsp; 
+<img height="50" width="50" src="https://miqh.gallerycdn.vsassets.io/extensions/miqh/vscode-language-rust/0.14.0/1536151476041/Microsoft.VisualStudio.Services.Icons.Default" /> &nbsp; 
+<img height="50" width="50" src="https://avatars.githubusercontent.com/u/63681715?s=200&v=4" /> &nbsp; 
+<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" /> &nbsp; 
+<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" /> &nbsp; 
+<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/html/html.png" /> &nbsp; 
+<img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/css/css.png" /> &nbsp; 
 <img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/javascript/javascript.png" />
 
----
+
 <!-- github stats -->
 <!-- ![gitStats](https://github-readme-stats.vercel.app/api?username=laouinia&theme=monokai&show_icons=true&hide_border=true&count_private=true&hide=prs,contribs) -->
 
