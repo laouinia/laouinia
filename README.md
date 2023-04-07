@@ -2,13 +2,13 @@
 
 &nbsp;
 
-## 🔭 &nbsp; About me
+## 🔭 &nbsp; `About me`
 
 - 🔭 &nbsp; An &nbsp; *`E.C.E`* &nbsp; currently working on : getting a full-time job
 
 &nbsp;
 
-## 🤓 &nbsp; Area of Interests
+## 🤓 &nbsp; `Area of Interests`
 
 - 🏴 `Computer Vision`
 
