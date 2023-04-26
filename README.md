@@ -8,19 +8,19 @@
 
 &nbsp;
 
-## 🤓 &nbsp; `Area of Interests`
+## &nbsp; `Area of Interests`
 
 - 🏴 `Computer Vision`
 
 <!-- &nbsp;
 
-## 🕯️  &nbsp; Education
+## &nbsp; Education
 
 - ⛓️  &nbsp; `OpenCV` : Computer Vision : { In Progress } -->
 
 &nbsp;
 
-## 👨‍💻  &nbsp; `Skills`
+## &nbsp; `Skills`
 
 &nbsp;
 <!-- skills -->
