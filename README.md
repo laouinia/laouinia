@@ -1,7 +1,7 @@
 # `人工知能の武士道コード`
 
-- Machines Don't Learn
-- Machines are not Intelligent
+- Machines don't learn
+- Machines are not it stat ntelligent
 - Garbage in Garbage out!
 &nbsp;
 
