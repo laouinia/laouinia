@@ -1,8 +1,8 @@
-# 人工知能の武士道コード
+# `人工知能の武士道コード`
 
 - Machines Don't Learn
 - Machines are not Intelligent
-- Garbage -> Garbage ->
+- Garbage in Garbage out!
 &nbsp;
 
 <!-- ## Hi ! &nbsp; 🔥 &nbsp; *`L.A`* &nbsp; 🔥 &nbsp; in the &nbsp;🕸️ -->
