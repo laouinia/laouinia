@@ -1,14 +1,17 @@
-# Hi ! &nbsp; 🔥 &nbsp; *`L.A`* &nbsp; 🔥 &nbsp; in the &nbsp;🕸️
+# 人工知能の武士道コード
+
+- Machines Don't Learn
+- Machines are not Intelligent
+- Garbage -> Garbage ->
+&nbsp;
+
+<!-- ## Hi ! &nbsp; 🔥 &nbsp; *`L.A`* &nbsp; 🔥 &nbsp; in the &nbsp;🕸️ -->
 
 &nbsp;
 
-## 人工知能の武士道コード
-
-
-
 ## 🔭 &nbsp; `About me`
 
-- 🔭 &nbsp; An &nbsp; *`E.C.E`* &nbsp; currently working on : getting a full-time job
+- 🔭 &nbsp; An &nbsp; *`E.C.E`* &nbsp; With Interest in AI.
 
 &nbsp;
 
