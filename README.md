@@ -3,7 +3,6 @@
 - Machines don't learn
 - Machines are not intelligent
 - Garbage in Garbage out!
-&nbsp;
 
 <!-- ## Hi ! &nbsp; 🔥 &nbsp; *`L.A`* &nbsp; 🔥 &nbsp; in the &nbsp;🕸️ -->
 
@@ -13,21 +12,17 @@
 
 <!-- - 🔭 &nbsp; An &nbsp; *`E.C.E`* &nbsp; With Interest in AI. -->
 
-&nbsp;
+## `Area of Interests` : `DL/CV`
 
-## &nbsp; `Area of Interests` 🏴 `Computer Vision`
-
+<!-- � -->
 <!-- &nbsp;
 
 ## &nbsp; Education
 
 - ⛓️  &nbsp; `OpenCV` : Computer Vision : { In Progress } -->
 
-&nbsp;
+## `Skills`
 
-## &nbsp; `Skills`
-
-&nbsp;
 <!-- skills -->
 <img height="50" width="50" src="https://avatars.githubusercontent.com/u/4673648?s=200&v=4" /> &nbsp; <!-- Arch -->
 <img height="50" width="50" src="https://www.nicepng.com/png/full/308-3084680_rust-programming-language-rust-programming-language-logo.png" />  <!-- Rust -->&nbsp;
