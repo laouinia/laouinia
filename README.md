@@ -1,23 +1,21 @@
 # `人工知能の武士道コード`
 
 - Machines don't learn
-- Machines are not it stat ntelligent
+- Machines are not intelligent
 - Garbage in Garbage out!
 &nbsp;
 
 <!-- ## Hi ! &nbsp; 🔥 &nbsp; *`L.A`* &nbsp; 🔥 &nbsp; in the &nbsp;🕸️ -->
 
+<!-- &nbsp; -->
+
+<!-- ## 🔭 &nbsp; `About me` -->
+
+<!-- - 🔭 &nbsp; An &nbsp; *`E.C.E`* &nbsp; With Interest in AI. -->
+
 &nbsp;
 
-## 🔭 &nbsp; `About me`
-
-- 🔭 &nbsp; An &nbsp; *`E.C.E`* &nbsp; With Interest in AI.
-
-&nbsp;
-
-## &nbsp; `Area of Interests`
-
-- 🏴 `Computer Vision`
+## &nbsp; `Area of Interests` 🏴 `Computer Vision`
 
 <!-- &nbsp;
 
