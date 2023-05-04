@@ -21,7 +21,7 @@
 
 - ⛓️  &nbsp; `OpenCV` : Computer Vision : { In Progress } -->
 
-## `Skills`
+## `Skills` : `A.R.T`
 
 <!-- skills -->
 <img height="50" width="50" src="https://avatars.githubusercontent.com/u/4673648?s=200&v=4" /> &nbsp; <!-- Arch -->
