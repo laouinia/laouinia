@@ -1,8 +1,7 @@
-# `人工知能の武士道コード`
+# `ルール`
 
-- Machines don't learn
-- Machines are not intelligent
-- Garbage in Garbage out!
+1. **`Garbage in Garbage out!`**
+2. **`Always Remember the 1st ルール`**
 
 <!-- ## Hi ! &nbsp; 🔥 &nbsp; *`L.A`* &nbsp; 🔥 &nbsp; in the &nbsp;🕸️ -->
 
